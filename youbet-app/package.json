@@ -1,0 +1,16 @@
+{
+  "name": "ballot-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
